@@ -3,13 +3,13 @@
   "name": "Geography",
   "decks": [
     {
-      "id": "europe-capitals-quiz",
-      "name": "Europe Capitals Quiz",
+      "id": "european-capitals-test",
+      "name": "Europe Capitals Quizz",
       "uri": "/en/geography/europe-capitals-quizz.json"
     },
     {
-      "id": "asia-capitals-quiz",
-      "name": "Asia Capitals Quiz",
+      "id": "asian-capitals-test",
+      "name": "Asia Capitals Quizz",
       "uri": "/en/geography/asia-capitals-quizz.json"
     }
   ]
