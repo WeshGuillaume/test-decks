@@ -1,0 +1,41 @@
+{
+  "title": "Micro-economics vocab test",
+  "cards": [
+    {
+      "id": "1",
+      "type": "multiple-choice-question",
+      "content": "What is demand?",
+      "options": [
+        "Willingness/ability to buy",
+        "Product availability",
+        "Gov regulation on products",
+        "Product price level"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "2",
+      "type": "multiple-choice-question",
+      "content": "What is supply?",
+      "options": [
+        "Product available for sale",
+        "Willingness to buy products",
+        "Product price level",
+        "Gov regulation on products"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "3",
+      "type": "multiple-choice-question",
+      "content": "What is elasticity?",
+      "options": [
+        "Response to price changes",
+        "Fixed supply-demand ratio",
+        "Constant price across markets",
+        "Market's price adjustment"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

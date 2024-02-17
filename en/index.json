@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "science",
+      "name": "Science",
+      "decksIndex": "/en/science/index.json"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "decksIndex": "/en/history/index.json"
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "decksIndex": "/en/economics/index.json"
+    },
+    {
+      "id": "politics",
+      "name": "Politics",
+      "decksIndex": "/en/politics/index.json"
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "decksIndex": "/en/geography/index.json"
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "decksIndex": "/en/technology/index.json"
+    }
+  ]
+}

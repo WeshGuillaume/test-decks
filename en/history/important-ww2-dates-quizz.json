@@ -1,0 +1,36 @@
+{
+  "title": "Important WWII Dates Quiz",
+  "cards": [
+    {
+      "id": "1",
+      "type": "multiple-choice-question",
+      "content": "Start of WWII?",
+      "options": [
+        "Sept 1, 1939",
+        "June 22, 1941",
+        "Dec 7, 1941",
+        "Aug 15, 1945"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "2",
+      "type": "multiple-choice-question",
+      "content": "D-Day (Normandy invasion)?",
+      "options": ["May 8, 1945", "June 6, 1944", "Dec 7, 1941", "Sept 2, 1945"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "3",
+      "type": "multiple-choice-question",
+      "content": "End of WWII?",
+      "options": [
+        "May 8, 1945",
+        "Sept 2, 1945",
+        "June 6, 1944",
+        "Sept 1, 1939"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

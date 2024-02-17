@@ -1,0 +1,19 @@
+{
+  "languages": [
+    {
+      "id": "en",
+      "name": "English",
+      "index": "/en/index.json"
+    },
+    {
+      "id": "fr",
+      "name": "Français",
+      "index": "/fr/index.json"
+    },
+    {
+      "id": "es",
+      "name": "Español",
+      "index": "/es/index.json"
+    }
+  ]
+}
