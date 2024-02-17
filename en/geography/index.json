@@ -1,11 +1,14 @@
 {
+  "id": "geography",
   "name": "Geography",
   "decks": [
     {
+      "id": "europe-capitals-quiz",
       "name": "Europe Capitals Quiz",
       "uri": "/en/geography/europe-capitals-quizz.json"
     },
     {
+      "id": "asia-capitals-quiz",
       "name": "Asia Capitals Quiz",
       "uri": "/en/geography/asia-capitals-quizz.json"
     }

@@ -1,11 +1,14 @@
 {
+  "id": "history",
   "name": "History",
   "decks": [
     {
+      "id": "important-ww2-dates-quizz",
       "name": "Important WW2 Dates Quiz",
       "uri": "/en/history/important-ww2-dates-quizz.json"
     },
     {
+      "id": "important-ww1-dates-quizz",
       "name": "Important WW1 Dates Quiz",
       "uri": "/en/history/important-ww1-dates-quizz.json"
     }

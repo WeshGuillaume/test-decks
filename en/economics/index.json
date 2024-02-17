@@ -1,11 +1,14 @@
 {
+  "id": "economics",
   "name": "Economics",
   "decks": [
     {
+      "id": "macro-economics-vocabulary-quiz",
       "name": "Macro Economics Vocabulary Quiz",
       "uri": "/en/economics/macro-economics-vocabulary-quizz.json"
     },
     {
+      "id": "micro-economics-vocabulary-quiz",
       "name": "Micro Economics Vocabulary Quiz",
       "uri": "/en/economics/micro-economics-vocabulary-quizz.json"
     }
