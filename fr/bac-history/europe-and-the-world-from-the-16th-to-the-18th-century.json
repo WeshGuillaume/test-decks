@@ -1,0 +1,256 @@
+{
+  "id": "europe-and-the-world-from-the-16th-to-the-18th-century",
+  "name": "L'Europe et le monde du XVIe siècle au XVIIIe siècle",
+  "cards": [
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle expédition a ouvert la voie à la première circumnavigation du globe en 1519 ?",
+      "options": [
+        "Magellan",
+        "Christophe Colomb",
+        "Vasco de Gama",
+        "Jacques Cartier"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Qui a peint la Joconde au début du XVIe siècle ?",
+      "options": ["Léonard de Vinci", "Michel-Ange", "Raphaël", "Titien"]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quel traité, signé en 1555, a reconnu le luthéranisme dans l'Empire romain germanique ?",
+      "options": [
+        "Paix d'Augsbourg",
+        "Traité de Westphalie",
+        "Edit de Nantes",
+        "Paix de Prague"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quel empire a été le principal adversaire de l'Europe chrétienne au XVIe siècle ?",
+      "options": [
+        "Empire ottoman",
+        "Empire mongol",
+        "Empire byzantin",
+        "Califat omeyyade"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quel événement a marqué le début de la Guerre de Trente Ans en 1618 ?",
+      "options": [
+        "Défenestration de Prague",
+        "Bataille de Lépante",
+        "Nuit de la Saint-Barthélemy",
+        "Massacre de Wassy"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle dynastie a régné sur la France au XVIIe siècle ?",
+      "options": ["Bourbons", "Valois", "Capétiens", "Carolingiens"]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Qui était le roi soleil ?",
+      "options": ["Louis XIV", "Henri IV", "François Ier", "Charles IX"]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quel traité de 1648 a mis fin à la Guerre de Trente Ans ?",
+      "options": [
+        "Traité de Westphalie",
+        "Paix d'Augsbourg",
+        "Edit de Nantes",
+        "Traité de Tordesillas"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle invention a révolutionné l'imprimerie au XVe siècle ?",
+      "options": [
+        "Presse à imprimer",
+        "Télégraphe",
+        "Machine à vapeur",
+        "Boussole"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quel philosophe a écrit 'Leviathan' en 1651 ?",
+      "options": [
+        "Thomas Hobbes",
+        "John Locke",
+        "Jean-Jacques Rousseau",
+        "Voltaire"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle ville est devenue le centre de la Réforme protestante ?",
+      "options": ["Wittenberg", "Rome", "Genève", "Paris"]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Qui a découvert le Brésil en 1500 pour le Portugal ?",
+      "options": [
+        "Pedro Álvares Cabral",
+        "Vasco de Gama",
+        "Christophe Colomb",
+        "Fernand de Magellan"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle guerre a opposé Français et Anglais au XVIIIe siècle ?",
+      "options": [
+        "Guerre de Sept Ans",
+        "Guerre de Cent Ans",
+        "Guerre d'indépendance des États-Unis",
+        "Guerre de Trente Ans"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Qui était le tsar de Russie qui a modernisé son pays au début du XVIIIe siècle ?",
+      "options": [
+        "Pierre le Grand",
+        "Ivan le Terrible",
+        "Catherine la Grande",
+        "Alexandre Ier"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle œuvre de Newton a révolutionné la physique ?",
+      "options": [
+        "Principia Mathematica",
+        "Discours de la méthode",
+        "De revolutionibus orbium coelestium",
+        "Leviathan"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle compagnie a dominé le commerce des épices avec l'Asie ?",
+      "options": [
+        "Compagnie néerlandaise des Indes orientales",
+        "Compagnie britannique des Indes orientales",
+        "Compagnie française des Indes orientales",
+        "Compagnie portugaise des Indes orientales"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Qui a été exécuté lors de la Révolution anglaise en 1649 ?",
+      "options": ["Charles Ier", "Oliver Cromwell", "Charles II", "Henri VIII"]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quel traité a conclu la guerre de Succession d'Espagne en 1713 ?",
+      "options": [
+        "Traité d'Utrecht",
+        "Traité de Versailles",
+        "Paix de Westphalie",
+        "Traité de Tordesillas"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle est la principale religion de l'Empire ottoman ?",
+      "options": ["Islam", "Christianisme", "Judaïsme", "Bouddhisme"]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Qui a écrit 'L'Encyclopédie' au XVIIIe siècle ?",
+      "options": [
+        "Diderot et d'Alembert",
+        "Voltaire",
+        "Montesquieu",
+        "Rousseau"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quel roi a été guillotiné lors de la Révolution française ?",
+      "options": ["Louis XVI", "Louis XIV", "Charles Ier", "Napoléon Bonaparte"]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle invention est associée à James Watt au XVIIIe siècle ?",
+      "options": [
+        "Machine à vapeur",
+        "Presse à imprimer",
+        "Télégraphe",
+        "Microscope"
+      ]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quelle ville était connue comme la 'Sérénissime' au XVIe siècle ?",
+      "options": ["Venise", "Florence", "Rome", "Milan"]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Qui a mené la première circumnavigation réussie du globe ?",
+      "options": ["Magellan", "Christophe Colomb", "James Cook", "Marco Polo"]
+    },
+    {
+      "type": "multiple-choice-question",
+      "annotation": "",
+      "correctAnswer": 0,
+      "content": "Quel philosophe a défendu la liberté de pensée dans 'Traité sur la tolérance' ?",
+      "options": ["Voltaire", "Rousseau", "Locke", "Montesquieu"]
+    }
+  ]
+}

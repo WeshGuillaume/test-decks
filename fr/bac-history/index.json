@@ -1,0 +1,11 @@
+{
+  "id": "bac-history",
+  "name": "Bac Histoire",
+  "decks": [
+    {
+      "id": "europe-and-the-world-from-the-16th-to-the-18th-century",
+      "name": "L'Europe et le monde du XVIe siècle au XVIIIe siècle",
+      "uri": "/fr/bac-history/europe-and-the-world-from-the-16th-to-the-18th-century.json"
+    }
+  ]
+}

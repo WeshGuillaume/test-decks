@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "id": "history",
+      "name": "Bac Histoire",
+      "decksIndex": "/fr/bac-history/index.json"
+    }
+  ],
+  "decks": {
+    "europe-and-the-world-from-the-16th-to-the-18th-century": "/fr/history/europe-and-the-world-from-the-16th-to-the-18th-century.json"
+  }
+}
