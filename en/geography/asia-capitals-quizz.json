@@ -1,0 +1,27 @@
+{
+  "id": "asian-capitals-quizz",
+  "title": "Asian Capitals Quizz",
+  "cards": [
+    {
+      "id": "1",
+      "type": "multiple-choice-question",
+      "content": "Capital of Japan?",
+      "options": ["Tokyo", "Seoul", "Beijing", "Bangkok"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "2",
+      "type": "multiple-choice-question",
+      "content": "Capital of China?",
+      "options": ["Hanoi", "Beijing", "Shanghai", "Taipei"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "3",
+      "type": "multiple-choice-question",
+      "content": "Capital of India?",
+      "options": ["Mumbai", "New Delhi", "Bangalore", "Kolkata"],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -15,5 +15,13 @@
       "name": "Geography",
       "decksIndex": "/en/geography/index.json"
     }
-  ]
+  ],
+  "decks": {
+    "macro-economics-vocab-test": "/en/economics/macro-economics-vocabulary-quizz.json",
+    "micro-economics-vocab-test": "/en/economics/micro-economics-vocabulary-quizz.json",
+    "asian-capitals-quizz": "/en/geography/asia-capitals-quizz.json",
+    "european-capitals-quizz": "/en/geography/europe-capitals-quizz.json",
+    "important-wwi-dates-quizz": "/en/history/important-ww1-dates-quizz.json",
+    "important-wwii-dates-quizz": "/en/history/important-ww2-dates-quizz.json"
+  }
 }

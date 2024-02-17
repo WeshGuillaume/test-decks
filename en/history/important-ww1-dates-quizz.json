@@ -1,0 +1,42 @@
+{
+  "id": "important-wwi-dates-quizz",
+  "title": "Important WWI Dates Quizz",
+  "cards": [
+    {
+      "id": "1",
+      "type": "multiple-choice-question",
+      "content": "Start of WWI?",
+      "options": [
+        "July 28, 1914",
+        "June 28, 1914",
+        "Aug 4, 1914",
+        "Apr 6, 1917"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "2",
+      "type": "multiple-choice-question",
+      "content": "USA joins WWI?",
+      "options": [
+        "Apr 6, 1917",
+        "July 28, 1914",
+        "Nov 11, 1918",
+        "June 28, 1919"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "3",
+      "type": "multiple-choice-question",
+      "content": "End of WWI?",
+      "options": [
+        "Nov 11, 1918",
+        "June 28, 1919",
+        "July 28, 1914",
+        "Apr 6, 1917"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
