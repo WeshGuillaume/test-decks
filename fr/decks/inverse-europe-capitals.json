@@ -1,0 +1,196 @@
+{
+  "name": "Capitales de l'UE inversé",
+  "themeColor": "#FBB868",
+  "description": "Testez vos connaissances sur les capitales de l'Union Européenne",
+  "cards": [
+    {
+      "content": "De quel pays Vienne est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Autriche", "Belgique", "Bulgarie", "Croatie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#cac69e"
+    },
+    {
+      "content": "De quel pays Bruxelles est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Belgique", "Autriche", "Bulgarie", "Croatie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#e6cd7d"
+    },
+    {
+      "content": "De quel pays Sofia est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Bulgarie", "Autriche", "Belgique", "Croatie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00dfc9"
+    },
+    {
+      "content": "De quel pays Nicosie est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Chypre", "Autriche", "Belgique", "Bulgarie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#b786e8"
+    },
+    {
+      "content": "De quel pays Zagreb est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Croatie", "Autriche", "Belgique", "Bulgarie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#bfdec3"
+    },
+    {
+      "content": "De quel pays Prague est-elle la capitale ?",
+      "annotation": "",
+      "test": ["République tchèque", "Autriche", "Belgique", "Bulgarie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00c9f8"
+    },
+    {
+      "content": "De quel pays Copenhague est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Danemark", "Autriche", "Belgique", "Croatie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f9b6b3"
+    },
+    {
+      "content": "De quel pays Tallinn est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Estonie", "Danemark", "Finlande", "Suède"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00dfc9"
+    },
+    {
+      "content": "De quel pays Helsinki est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Finlande", "Danemark", "Estonie", "Suède"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00dfc9"
+    },
+    {
+      "content": "De quel pays Paris est-elle la capitale ?",
+      "annotation": "",
+      "test": ["France", "Belgique", "Luxembourg", "Allemagne"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#b786e8"
+    },
+    {
+      "content": "De quel pays Berlin est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Allemagne", "Autriche", "Pologne", "Suisse"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00dfc9"
+    },
+    {
+      "content": "De quel pays Athènes est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Grèce", "Albanie", "Macédoine", "Turquie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00c9f8"
+    },
+    {
+      "content": "De quel pays Budapest est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Hongrie", "Autriche", "Slovaquie", "Roumanie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ffdfd0"
+    },
+    {
+      "content": "De quel pays Dublin est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Irlande", "Royaume-Uni", "France", "Espagne"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ff97db"
+    },
+    {
+      "content": "De quel pays Rome est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Italie", "France", "Espagne", "Grèce"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00dfc9"
+    },
+    {
+      "content": "De quel pays Riga est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Lettonie", "Lituanie", "Estonie", "Suède"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ffdfd0"
+    },
+    {
+      "content": "De quel pays Vilnius est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Lituanie", "Lettonie", "Pologne", "Belarus"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00c9f8"
+    },
+    {
+      "content": "De quel pays Luxembourg est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Luxembourg", "Belgique", "France", "Allemagne"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#bfdec3"
+    },
+    {
+      "content": "De quel pays La Valette est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Malte", "Italie", "Grèce", "Chypre"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ff97db"
+    },
+    {
+      "content": "De quel pays Amsterdam est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Pays-Bas", "Belgique", "Allemagne", "Luxembourg"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ff97db"
+    },
+    {
+      "content": "De quel pays Varsovie est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Pologne", "Allemagne", "Tchéquie", "Slovaquie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ffdfd0"
+    },
+    {
+      "content": "De quel pays Lisbonne est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Portugal", "Espagne", "France", "Italie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00dfc9"
+    },
+    {
+      "content": "De quel pays Bucarest est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Roumanie", "Bulgarie", "Hongrie", "Serbie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00dfc9"
+    },
+    {
+      "content": "De quel pays Bratislava est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Slovaquie", "Tchéquie", "Hongrie", "Pologne"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#bfdec3"
+    },
+    {
+      "content": "De quel pays Ljubljana est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Slovénie", "Croatie", "Italie", "Hongrie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#e6cd7d"
+    },
+    {
+      "content": "De quel pays Madrid est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Espagne", "Portugal", "France", "Italie"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#b786e8"
+    },
+    {
+      "content": "De quel pays Stockholm est-elle la capitale ?",
+      "annotation": "",
+      "test": ["Suède", "Norvège", "Finlande", "Danemark"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00dfc9"
+    }
+  ]
+}
