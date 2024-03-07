@@ -1,0 +1,301 @@
+{
+  "name": "Capitales de l'UE",
+  "themeColor": "#FBB868",
+  "description": "Testez vos connaissances sur les capitales de l'Union Européenne",
+  "cards": [
+    {
+      "content": "Quelle est la capitale de l'Autriche ?",
+      "annotation": "",
+      "test": [
+        "Vienne",
+        "Graz",
+        "Salzbourg",
+        "Innsbruck",
+        "Linz",
+        "Klagenfurt"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00c9f8"
+    },
+    {
+      "content": "Quelle est la capitale de la Belgique ?",
+      "annotation": "",
+      "test": ["Bruxelles", "Anvers", "Liège", "Gand", "Bern", "Amsterdam"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ffdfd0"
+    },
+    {
+      "content": "Quelle est la capitale de la Bulgarie ?",
+      "annotation": "",
+      "test": ["Sofia", "Plovdiv", "Varna", "Burgas", "Ruse", "Thessalonique"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00c9f8"
+    },
+    {
+      "content": "Quelle est la capitale de Chypre ?",
+      "annotation": "",
+      "test": [
+        "Nicosie",
+        "Limassol",
+        "Larnaca",
+        "Paphos",
+        "Héraklion",
+        "Beyrouth"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#e6cd7d"
+    },
+    {
+      "content": "Quelle est la capitale de la Croatie ?",
+      "annotation": "",
+      "test": [
+        "Zagreb",
+        "Split",
+        "Rijeka",
+        "Dubrovnik",
+        "Ljubljana",
+        "Sarajevo"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ff97db"
+    },
+    {
+      "content": "Quelle est la capitale de la République tchèque ?",
+      "annotation": "",
+      "test": ["Prague", "Brno", "Ostrava", "Plzeň", "Liberec", "Dresde"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f9b6b3"
+    },
+    {
+      "content": "Quelle est la capitale du Danemark ?",
+      "annotation": "",
+      "test": [
+        "Copenhague",
+        "Aarhus",
+        "Odense",
+        "Aalborg",
+        "Malmö",
+        "Hambourg"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ffdfd0"
+    },
+    {
+      "content": "Quelle est la capitale de l'Estonie ?",
+      "annotation": "",
+      "test": ["Tallinn", "Tartu", "Narva", "Pärnu", "Riga", "Vilnius"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f1ed7f"
+    },
+    {
+      "content": "Quelle est la capitale de la Finlande ?",
+      "annotation": "",
+      "test": ["Helsinki", "Espoo", "Tampere", "Turku", "Stockholm", "Oslo"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f9b6b3"
+    },
+    {
+      "content": "Quelle est la capitale de la France ?",
+      "annotation": "",
+      "test": ["Paris", "Marseille", "Lyon", "Toulouse", "Madrid"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f1ed7f"
+    },
+    {
+      "content": "Quelle est la capitale de l'Allemagne ?",
+      "annotation": "",
+      "test": [
+        "Berlin",
+        "Munich",
+        "Hambourg",
+        "Cologne",
+        "Bruxelles",
+        "Prague"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f1ed7f"
+    },
+    {
+      "content": "Quelle est la capitale de la Grèce ?",
+      "annotation": "",
+      "test": [
+        "Athènes",
+        "Thessalonique",
+        "Patras",
+        "Héraklion",
+        "Istanbul",
+        "Nicosie"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ff97db"
+    },
+    {
+      "content": "Quelle est la capitale de la Hongrie ?",
+      "annotation": "",
+      "test": [
+        "Budapest",
+        "Debrecen",
+        "Szeged",
+        "Pécs",
+        "Vienne",
+        "Bratislava"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#bfdec3"
+    },
+    {
+      "content": "Quelle est la capitale de l'Irlande ?",
+      "annotation": "",
+      "test": ["Dublin", "Cork", "Galway", "Limerick", "Londres", "Belfast"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#e6cd7d"
+    },
+    {
+      "content": "Quelle est la capitale de l'Italie ?",
+      "annotation": "",
+      "test": ["Rome", "Milan", "Naples", "Turin", "Palerme", "Sicile"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f9b6b3"
+    },
+    {
+      "content": "Quelle est la capitale de la Lettonie ?",
+      "annotation": "",
+      "test": [
+        "Riga",
+        "Daugavpils",
+        "Liepāja",
+        "Jelgava",
+        "Tallinn",
+        "Vilnius"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#e6cd7d"
+    },
+    {
+      "content": "Quelle est la capitale de la Lituanie ?",
+      "annotation": "",
+      "test": ["Vilnius", "Kaunas", "Klaipėda", "Šiauliai", "Riga", "Tallinn"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#b786e8"
+    },
+    {
+      "content": "Quelle est la capitale du Luxembourg ?",
+      "annotation": "",
+      "test": [
+        "Luxembourg",
+        "Esch-sur-Alzette",
+        "Dudelange",
+        "Differdange",
+        "Strasbourg",
+        "Metz"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#00dfc9"
+    },
+    {
+      "content": "Quelle est la capitale de Malte ?",
+      "annotation": "",
+      "test": [
+        "La Valette",
+        "Sliema",
+        "Saint Julian",
+        "Mdina",
+        "Rabat",
+        "Nicosie"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ffdfd0"
+    },
+    {
+      "content": "Quelle est la capitale des Pays-Bas ?",
+      "annotation": "",
+      "test": [
+        "Amsterdam",
+        "Rotterdam",
+        "La Haye",
+        "Utrecht",
+        "Bruxelles",
+        "Luxembourg"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f1ed7f"
+    },
+    {
+      "content": "Quelle est la capitale de la Pologne ?",
+      "annotation": "",
+      "test": [
+        "Varsovie",
+        "Cracovie",
+        "Wroclaw",
+        "Poznan",
+        "Gdansk",
+        "Katowice"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f1ed7f"
+    },
+    {
+      "content": "Quelle est la capitale du Portugal ?",
+      "annotation": "",
+      "test": ["Lisbonne", "Porto", "Braga", "Coimbra", "Faro", "Madrid"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#f9b6b3"
+    },
+    {
+      "content": "Quelle est la capitale de la Roumanie ?",
+      "annotation": "",
+      "test": [
+        "Bucarest",
+        "Cluj-Napoca",
+        "Timișoara",
+        "Iași",
+        "Constanța",
+        "Sofia"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#feccb6"
+    },
+    {
+      "content": "Quelle est la capitale de la Slovaquie ?",
+      "annotation": "",
+      "test": [
+        "Bratislava",
+        "Košice",
+        "Prešov",
+        "Žilina",
+        "Budapest",
+        "Prague"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#cac69e"
+    },
+    {
+      "content": "Quelle est la capitale de la Slovénie ?",
+      "annotation": "",
+      "test": ["Ljubljana", "Maribor", "Kranj", "Celje", "Zagreb", "Trieste"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#feccb6"
+    },
+    {
+      "content": "Quelle est la capitale de l'Espagne ?",
+      "annotation": "",
+      "test": [
+        "Madrid",
+        "Barcelone",
+        "Valence",
+        "Séville",
+        "Lisbonne",
+        "Paris"
+      ],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#e6cd7d"
+    },
+    {
+      "content": "Quelle est la capitale de la Suède ?",
+      "annotation": "",
+      "test": ["Stockholm", "Göteborg", "Malmö", "Uppsala", "Helsinki", "Oslo"],
+      "foregroundColor": "#2c2836",
+      "backgroundColor": "#ffdfd0"
+    }
+  ]
+}
