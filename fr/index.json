@@ -1,12 +1,19 @@
 {
   "categories": [
     {
-      "id": "history",
-      "name": "Bac Histoire - Général",
-      "decksIndex": "/fr/bac-history/index.json"
+      "id": "geography",
+      "name": "Géographie et géopolitique 🌍",
+      "url": "/categories/geography",
+      "previewDecks": [
+        "/decks/europe-capitals.json",
+        "/decks/inverse-europe-capitals.json"
+      ]
     }
   ],
   "decks": {
-    "europe-and-the-world-from-the-16th-to-the-18th-century": "/fr/bac-history/europe-and-the-world-from-the-16th-to-the-18th-century.json"
+    "geography": [
+      "/decks/europe-capitals.json",
+      "/decks/inverse-europe-capitals.json"
+    ]
   }
 }
