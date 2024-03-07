@@ -5,15 +5,23 @@
       "name": "Géographie et géopolitique 🌍",
       "url": "/categories/geography",
       "previewDecks": [
-        "/decks/europe-capitals.json",
-        "/decks/inverse-europe-capitals.json"
+        {
+          "id": "europe-capitals",
+          "name": "Capitales de l'UE",
+          "themeColor": "#FBB868",
+          "description": "Testez vos connaissances sur les capitales de l'Union Européenne",
+          "cardsCount": 28,
+          "url": "/decks/europe-capitals.json"
+        },
+        {
+          "id": "inverse-europe-capitals",
+          "name": "Capitales de l'UE inversé",
+          "themeColor": "#FBB868",
+          "description": "Testez vos connaissances sur les capitales de l'Union Européenne",
+          "cardsCount": 28,
+          "url": "/decks/inverse-europe-capitals.json"
+        }
       ]
     }
-  ],
-  "decks": {
-    "geography": [
-      "/decks/europe-capitals.json",
-      "/decks/inverse-europe-capitals.json"
-    ]
-  }
+  ]
 }
